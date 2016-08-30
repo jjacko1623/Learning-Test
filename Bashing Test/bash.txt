@@ -1,0 +1,11 @@
+bash bash
+#2
+number 16
+new change
+branch time
+
+what to do with conflicts
+
+conflict
+
+diff test
