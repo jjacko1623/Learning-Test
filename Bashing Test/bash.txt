@@ -9,3 +9,8 @@ what to do with conflicts
 conflict
 
 diff test
+
+
+other direction
+remote to local pull
+:)
